@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "giwIEB8BxgVA3gBmruIReCsgKx9jM3vJxLgSCBhDdDs=",
+  "Source": "ContactListBackend",
+  "BasePath": "_content/ContactListBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
